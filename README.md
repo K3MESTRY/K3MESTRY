@@ -12,7 +12,7 @@ On this landing page you'll find links to practical labs I've used to gain exper
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Kerberoasting and hash passing         | <a href="https://google.com">THM Soupdecode</a>|
+| Kerberoasting and hash passing         | <a href="https://github.com/K3MESTRY/Security-Portfolio/blob/main/Writeups/Soupdecode/Soupedecode%2001%20424ad43863dc807eaee8cb6ec5ed5d9e.md">THM Soupdecode</a>|
 | WebApp exploitation                    | <a href="https://google.com">THM Speedchat</a>|
 
 
