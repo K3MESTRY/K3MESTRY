@@ -8,7 +8,7 @@ I am a highly motivated and analytical IT professional with a strong interest in
 On this landing page you'll find links to practical labs I've used to gain experience in using popular red team tools within kali linux.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
